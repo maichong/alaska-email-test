@@ -1,7 +1,11 @@
 {
   "name": "alaska-email-test",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Alaska email test driver",
+  "keywords": [
+    "alaska",
+    "alaska-email"
+  ],
   "main": "index.js",
   "scripts": {
   },

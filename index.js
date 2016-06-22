@@ -7,8 +7,9 @@
 'use strict';
 
 exports.default = class EmailTestDriver {
-  constructor(service) {
+  constructor(service, options) {
     this.service = service;
+    this.options = options;
   }
 
   /**
